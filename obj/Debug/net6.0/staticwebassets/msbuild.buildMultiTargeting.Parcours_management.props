@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Parcours_management.props" />
+</Project>
